@@ -1,0 +1,15 @@
+*.pyc
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.swp
+.directory
+const.py
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.swp
+.directory
+.userinfo
